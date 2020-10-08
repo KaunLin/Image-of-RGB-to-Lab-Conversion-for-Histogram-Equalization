@@ -1,1 +1,1 @@
-# KaunLin-Image-of-RGB-to-Lab-Conversion-for-Histogram-Equalization
+# Image-of-RGB-to-Lab-Conversion-for-Histogram-Equalization
